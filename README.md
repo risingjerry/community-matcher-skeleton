@@ -9,7 +9,7 @@
 ```text
 请帮我安装并初始化这个项目：
 
-https://github.com/JNHFlow21/community-matcher-skeleton
+https://github.com/risingjerry/community-matcher-skeleton
 
 目标：
 把这个 community matcher skeleton 初始化成一个可使用的本地社群人脉匹配知识库。
@@ -17,7 +17,7 @@ https://github.com/JNHFlow21/community-matcher-skeleton
 请按下面步骤执行：
 
 1. 如果本地还没有仓库，请先克隆：
-   git clone https://github.com/JNHFlow21/community-matcher-skeleton.git
+   git clone https://github.com/risingjerry/community-matcher-skeleton.git
 
 2. 进入仓库根目录：
    community-matcher-skeleton
